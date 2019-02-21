@@ -236,12 +236,11 @@ legend {
   padding: 2px;
   border: 2px solid;
   border-color: #000000;
-  font-weight: bold;
   background-color: white;
 }
 
 strong {
-  font-style: bold;
+  font-weight: bold;
 }
 
 p {
